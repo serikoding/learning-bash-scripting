@@ -1,0 +1,16 @@
+Course Notes.md
+Solutions
+dir1
+dir2
+dir3
+list.txt
+lorem.txt
+script.sh
+Course Notes.md
+Solutions
+dir1
+dir2
+dir3
+list.txt
+lorem.txt
+script.sh
